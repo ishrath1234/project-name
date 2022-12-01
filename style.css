@@ -1,0 +1,18 @@
+#home{
+    text-align: center;
+}
+#profile_pic{
+    height: 350px;
+    width: 500px;
+}
+#bio{
+    text-align: center;
+}
+p{
+    max-width: 500px;
+    margin: 25px auto;
+}
+#name{
+    font-size: 50px;
+    color: blue;
+}
